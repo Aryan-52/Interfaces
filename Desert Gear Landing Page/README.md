@@ -1,31 +1,19 @@
+![Screenshot 2025-05-12 223529-Photoroom](https://github.com/user-attachments/assets/aad32812-5398-4358-aca3-d5fa92cddc97)![Screenshot 2025-05-12 223529-Photoroom](https://github.com/user-attachments/assets/4b17c116-ab1e-40cb-a55d-3deb0d69a669)# 🏜️ Desert Gear Landing Page
 
----
+A modern, responsive landing page interface designed to showcase outdoor gear—specifically backpacks and training equipment—with a focus on clean UI design and interaction. This project is part of the **Interfaces** collection.
 
-## ✅ 2. Project: **Desert Bag Landing Page**
+## ✨ Overview
 
-### 🔹 Description (for project folder `README.md`)
-> A clean and modern landing page interface inspired by e-commerce product layouts. Features a responsive two-panel design with a navigation bar, product cards, and a right-side visual selector.
+The Desert Gear Landing Page is a concept UI built using HTML and CSS. It features a sleek layout with product panels, a selector section, navigation bar, and a prominent hero area with desert-themed visuals. This is suitable as a starting point for e-commerce product pages or landing screens.
 
-### 🔹 `README.md` for Project
-```markdown
-# Desert Bag Landing Page
+## 🎨 Features
 
-A responsive and modern user interface for a fictional bag brand, featuring an elegant landing page layout. Built using pure HTML and CSS with no external frameworks.
+- Responsive and clean layout with modern design.
+- Product display cards with hoverable "plus" icons.
+- Selector toggles for variant display (e.g., different bags).
+- Navigation bar with category buttons and icons.
+- Bottom block with brief brand description and CTA.
+- Consistent color palette and polished shadows.
 
-## ✨ Features
-
-- Two-column grid layout with overlapping sections
-- Custom product cards with image overlays
-- Button group with neumorphic styling
-- Image-based selectors with active indicators
-- Clean, readable typography and shadow effects
-- Fully responsive base (desktop first)
-
-## 🔧 Tech Stack
-
-- HTML5
-- CSS3 (Flexbox, Grid, Shadows, Gradients)
-
-## 📁 Structure
-
-
+## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/f07d38af-8461-46de-a2a4-63c4b27924c4)
