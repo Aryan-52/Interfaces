@@ -1,4 +1,4 @@
-![Screenshot 2025-05-12 223529-Photoroom](https://github.com/user-attachments/assets/aad32812-5398-4358-aca3-d5fa92cddc97)![Screenshot 2025-05-12 223529-Photoroom](https://github.com/user-attachments/assets/4b17c116-ab1e-40cb-a55d-3deb0d69a669)# 🏜️ Desert Gear Landing Page
+# 🏜️ Desert Gear Landing Page
 
 A modern, responsive landing page interface designed to showcase outdoor gear—specifically backpacks and training equipment—with a focus on clean UI design and interaction. This project is part of the **Interfaces** collection.
 
