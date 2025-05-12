@@ -5,7 +5,7 @@ A curated collection of modern user interface (UI) projects built using HTML, CS
 ## 📁 Projects Included
 
 - **Desert Bag Landing Page** — A stylish e-commerce interface featuring a modern product showcase.
-- *More Upcomming projects*
+- *More Upcomming projects...*
 
 ## 🚀 Features
 
