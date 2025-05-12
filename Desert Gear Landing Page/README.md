@@ -16,4 +16,5 @@ The Desert Gear Landing Page is a concept UI built using HTML and CSS. It featur
 - Consistent color palette and polished shadows.
 
 ## 📸 Screenshots
-![image](https://github.com/user-attachments/assets/f07d38af-8461-46de-a2a4-63c4b27924c4)
+![Desert Gear Landing Page](https://github.com/user-attachments/assets/298e7b96-343f-461e-b679-e5d690d715b4)
+
